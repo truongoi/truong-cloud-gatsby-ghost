@@ -1,6 +1,6 @@
-- url: https://styxlab.github.io
-  repo: https://github.com/styxlab/gatsby-starter-try-ghost
-  description: A Gatsby starter for creating blogs from headless Ghost CMS.
+- url: https://truong.cloud
+  repo: https://github.com/truongoi/truong-cloud-gatsby-ghost
+  description:
   tags:
     - Blog
     - CMS:Headless

@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://truong-blog.herokuapp.com",
+    "contentApiKey": "66d91c22c844679d2aafd948c2"
+  },
+  "production": {
+    "apiUrl": "https://truong-blog.herokuapp.com",
+    "contentApiKey": "66d91c22c844679d2aafd948c2"
+  }
+}
